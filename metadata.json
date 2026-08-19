@@ -1,0 +1,7 @@
+{
+  "name": "Ambulance Driver",
+  "description": "Emergency ambulance driver interface featuring real-time priority dispatch alerts, GPS tracking, scheduled trips, offline sync, and driver profile management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
